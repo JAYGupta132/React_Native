@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982425732875",
+    "project_id": "apppushnotification-60876",
+    "storage_bucket": "apppushnotification-60876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982425732875:android:0324f4ca0841ac9ce1440e",
+        "android_client_info": {
+          "package_name": "com.workshop_push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ91ocJqNwhRG6rmtIMC8KLnfjDlGsF2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
