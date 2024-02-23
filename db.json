@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "jay ",
+      "age": "23",
+      "skill": "react",
+      "id": 1
+    },
+    {
+      "name": "jay ",
+      "age": "23",
+      "skill": "react",
+      "id": 2
+    },
+    {
+      "name": "jay ",
+      "age": "23",
+      "skill": "react",
+      "id": 3
+    },
+    {
+      "name": "vikas",
+      "age": "34",
+      "skill": "java",
+      "id": 4
+    },
+    {
+      "name": "vikram ",
+      "age": "43",
+      "skill": "ror",
+      "id": 5
+    },
+    {
+      "name": "daya",
+      "age": "45",
+      "skill": "d",
+      "id": 6
+    },
+    {
+      "name": "ds",
+      "age": "ds",
+      "skill": "sds",
+      "id": 7
+    },
+    {
+      "name": "saa",
+      "age": "sas",
+      "skill": "da",
+      "id": 8
+    }
+  ]
+}
