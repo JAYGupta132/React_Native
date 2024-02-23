@@ -1,0 +1,20 @@
+{
+  "favorite": [
+    {
+      "id": "1",
+      "name": "Meat Pizza",
+      "ingredients": "Mixed Pizza",
+      "price": "8.30",
+      "image": 5,
+      "favorite": true
+    },
+    {
+      "id": "2",
+      "name": "Cheese Pizza",
+      "ingredients": "Cheese Pizza",
+      "price": "7.10",
+      "image": 6,
+      "favorite": true
+    }
+  ]
+}
